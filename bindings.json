@@ -5,5 +5,5 @@
     "Alt-s": "lua:snippets.Insert",
     "Alt-w": "lua:snippets.Next",
     "CtrlUnderscore": "lua:comment.comment"
-    "Ctrl-f": "command-edit:set filetype "
+    "Alt-f": "command-edit:set filetype "
 }
